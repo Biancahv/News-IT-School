@@ -19,7 +19,7 @@ function Header() {
     <header>
       <nav className={`${styles.nav} bg-primary w-100`}>
         <Container className="d-flex justify-content-between align-items-center">
-          <Link to=":/" className="p-3">
+          <Link to="/" className="p-3">
             <img
               src="https://itschool.ro/images/logo-itschool-dark.svg"
               alt="itschool logo"
